@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\bin\Debug\net7.0\Mean Square Error.exe
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\bin\Debug\net7.0\Mean Square Error.deps.json
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\bin\Debug\net7.0\Mean Square Error.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\bin\Debug\net7.0\Mean Square Error.dll
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\bin\Debug\net7.0\Mean Square Error.pdb
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\obj\Debug\net7.0\Mean Square Error.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\obj\Debug\net7.0\Mean Square Error.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\obj\Debug\net7.0\Mean Square Error.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\obj\Debug\net7.0\Mean Square Error.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\obj\Debug\net7.0\Mean Square Error.dll
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\obj\Debug\net7.0\refint\Mean Square Error.dll
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\obj\Debug\net7.0\Mean Square Error.pdb
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\obj\Debug\net7.0\Mean Square Error.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Mean Square Error\Mean Square Error\obj\Debug\net7.0\ref\Mean Square Error.dll
